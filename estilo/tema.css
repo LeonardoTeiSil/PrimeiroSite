@@ -7,3 +7,13 @@ body {
 .container{
     padding: 0px 50px;
 }
+
+nav {
+    background-color: rgb(199, 52, 199);
+    border-radius: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    color: rgb(167, 49, 112);
+    box-shadow:2px 2px 2px 2px rgb(66, 31, 50);
+}
